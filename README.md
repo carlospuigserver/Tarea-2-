@@ -1,2 +1,2 @@
-# Tarea-2-
-Tarea 2 python
+# Adivina_el_número
+Adivina el número  python
